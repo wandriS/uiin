@@ -1,0 +1,6 @@
+{
+  "name": "Apex Warehouse & Inventory",
+  "description": "High-density enterprise logistics and inventory control platform featuring real-time SKU management, bin tracking, inbound dock monitoring, and interactive warehouse spatial mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
